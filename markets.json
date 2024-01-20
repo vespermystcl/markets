@@ -9,6 +9,15 @@
                 "nft":"0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF",
                 "market":"0xDf1EFc076E60444Adc720fd75A746f28F8EE28D4"
             }
+        },
+        {
+            "name":"MYSTCL",
+            "symbol":"MYSTCL",
+            "image":"https://mystcl.xyz/assets/images/256.png",
+            "contracts":{
+                "nft":"0xd1a9c44d57A728f57d6f4DF576154DD56D25F378",
+                "market":"TODO"
+            }
         }
     ]
 
